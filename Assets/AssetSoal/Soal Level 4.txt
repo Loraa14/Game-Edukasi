@@ -1,0 +1,18 @@
+Tempat Pemberhentian Tranportasi Bus Di ?
++Terminal
++Pelabuhan
++Stasiun
++Bandara
++A
+#Pelabuhan Adalah Tempat Pemberhentian Tranportasi ?
++Pesawat
++Bajaj
++Kereta Api
++Kapal Laut
++D
+#Stasiun Aadalah Tempat Tranportasi ?
++Becak 
++Mobil 
++Kereta Api
++Motor
++C

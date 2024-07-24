@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 17919ba7bb6c27746ad3fe28efde7e28
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 5077225187113088054
+    second: Camera.005|BezierCircleAction
+  - first:
+      74: 7520356377160365701
+    second: Camera.005|BezierCircleAction.003
+  - first:
+      74: -6780749906772802864
+    second: Camera.005|Camera.001Action
+  - first:
+      74: 8693761559291973630
+    second: Camera.005|Camera.002Action
+  - first:
+      74: 7587502392472776508
+    second: Camera.005|Camera.003Action.001
+  - first:
+      74: -6173259168500206091
+    second: Camera.005|Camera.003Action.002
+  - first:
+      74: 2111303447651821051
+    second: Camera.005|Camera.005Action.002
+  - first:
+      74: -2153760133015331414
+    second: Camera.005|CameraAction
+  - first:
+      74: 3208219878273681521
+    second: BezierCircle.002|BezierCircleAction
+  - first:
+      74: 1980289218804183909
+    second: BezierCircle.002|BezierCircleAction.003
+  - first:
+      74: -7504852185974336706
+    second: BezierCircle.002|Camera.001Action
+  - first:
+      74: -3514145066503400323
+    second: BezierCircle.002|Camera.002Action
+  - first:
+      74: -3330448368494559623
+    second: BezierCircle.002|Camera.003Action.001
+  - first:
+      74: 4432957313914366556
+    second: BezierCircle.002|Camera.003Action.002
+  - first:
+      74: 9087252434634169420
+    second: BezierCircle.002|Camera.005Action.002
+  - first:
+      74: -4333589710541024514
+    second: BezierCircle.002|CameraAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

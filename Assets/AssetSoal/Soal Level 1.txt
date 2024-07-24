@@ -1,0 +1,20 @@
+Transportasi apa yang menggunakan rel dan bergerak di atas rel ?
++Kereta api
++Mobil
++Pesawat
++Becak 
++A
+#Transportasi apa yang disebut juga dengan kendaraan roda dua ?
++Mobil
++Motor
++Bis
++Helikopter
++B
+#Trabsportasi yang berada diperairan ?
++Kapal Laut
++Balon Udara
++Bajaj
++Pesawat
++A
+
+

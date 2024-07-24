@@ -1,0 +1,18 @@
+Tranportasi Pesawat Terbang Diluncurkan Pada Tahun ?
++1990
++1567
++1903
++2009
++C
+#Kereta Api Diciptakan Oleh ?
++Richard Trevithick 
++Robert Stephenson
++George
++James Watt
++A
+#Kapal Laut Diciptakan Oleh ?
++Richard Trevithick 
++Robert Fulton
++George
++James Watt
++B

@@ -1,0 +1,19 @@
+Bahan bakar yang di gunakan transportasi pesawat adalah ?
++Solar
++Bensin
++Avtur
++Biodiesel
++C
+#Transportasi yang menggunakan bahan bakar bensin adalah ?
++Kereta Api
++Kapal laut
++Pesawat
++Mobil
++D
+#Bahan bakar yang di gunakan transportasi kereta api adalah ?
++Solar
++Avtur
++Bensin
++Batubara
++A
+

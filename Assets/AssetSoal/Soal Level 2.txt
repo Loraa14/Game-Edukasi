@@ -1,0 +1,18 @@
+Masinis biasanya mengendarai transportasi apa ?
++Mobil
++Kereta api
++Perahu
++Bus
++B
+#Pilot biasanya mengendarai transportasi apa ?
++Bus
++Bajaj
++Motor
++Pesawat
++D
+#Supir biasanya mengendarai tranportasi apa ?
++Mobil
++Kapal Laut
++Kereta Api 
++Pesawat
++A

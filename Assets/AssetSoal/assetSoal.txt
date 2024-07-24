@@ -1,0 +1,60 @@
+Rumah Gadang berasal di provisi  ?
++Sumatera Selatan 
++Sumatera Utara 
++Sumatera Barat 
++Aceh 
++C
+#Rumah Honai berasal dari Provisi ?
++Jawa Barat 
++Papua
++Sumatera Utara
++Kalimantan Selatan
++B
+#Rumah Gadang berasal dari suku ? 
++Suku Batak 
++Suku Jawa 
++Suku Ambon 
++Suku Minangkabau
++D
+#Rumah Tambi berasal dari provisi ?
++Jawa Tengah
++Papua
++Sulawesi Tengah 
++DKI Jakarta
++B
+#Nama lain dari rumah Honai ?
++Rumah Onai 
++Rumah Honai 
++Rumah inai
++Rumah Panggung
++A
+#Atap rumah Gadang menyerupai ?
++Segitiga
++Tandur Kerbau
++Kerucut
++Segitiga Siku-siku
++B
+#Rumah Tambi rumah tradisional dari ?
++Tampo Lore
++Dayak
++Betawi
++Minagkabau
++A
+#Rumah Tambi berbentuk ?
++Rumah Lojong
++Rumah Bulat
++Rumah Panggung
++Rumah Joglo
++C
+#Ada berapa jenis rumah Honai ?
++Empat
++Enam
++Tujuh
++Tiga
++D
+#Rumah Tambi terbuat dari kayu ?
++Kayu Jati
++Kayu Rotan
++Kayu Bonati
++Kayu Merbau
++C
